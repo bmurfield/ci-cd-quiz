@@ -3,17 +3,6 @@
   "compilerOptions": {
     /* Modules */
     "rootDir": "src" /* Specify the root folder within your source files. */,
-     "baseUrl": "./",
-    "paths": {
-      "@components/*": ["src/components/*"],
-      "@utils/*": ["src/utils/*"]
-    },
-    "target": "ES2020",
-    "module": "CommonJS",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
 
     /* Emit */
     "outDir": "dist" /* Specify an output folder for all emitted files. */
