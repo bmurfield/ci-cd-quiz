@@ -71,10 +71,6 @@ Project Setup
 
     Example configuration:
 
-    yaml
-
-    Copy code
-
     `name: Cypress Tests
     on:
       pull_request:
@@ -99,10 +95,6 @@ Project Setup
     This workflow triggers deployment to Render when code is merged to `main`.
 
     Example configuration:
-
-    yaml
-
-    Copy code
 
     `name: Deploy to Render
     on:
